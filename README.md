@@ -1,0 +1,1 @@
+# jcszr8-ASP.NET-Core-obsluga-bledow-i-wyjatkow
